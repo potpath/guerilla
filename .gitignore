@@ -1,0 +1,6 @@
+# Local config: channel handle and ntfy topic
+env.local
+
+# Runtime state, not source
+.last_live_video
+.error_streak
